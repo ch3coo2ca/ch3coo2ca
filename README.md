@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fch3coo2ca%2Fhit-counter&count_bg=%238ABEED&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **ch3coo2ca/ch3coo2ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
